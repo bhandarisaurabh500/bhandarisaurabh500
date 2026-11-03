@@ -7,13 +7,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C77B9B&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Building+Scalable+Enterprise+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C77B9B&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Engineering+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <b>📍 Ahilyanagar, Maharashtra, India</b> &nbsp;•&nbsp; 
-  <b>M.Sc Computer Science</b> &nbsp;•&nbsp; 
-  <b>Building • Learning • Shipping</b>
+  <b>🎓 M.Sc Computer Science</b> &nbsp;•&nbsp; 
+  <b>⚡ Building • Learning • Shipping</b>
 </p>
 
 <p align="center">
@@ -23,8 +23,24 @@
 </p>
 
 <p align="center">
-  I design and engineer reliable, high-performance web and enterprise applications. My focus spans robust backend architectures with <b>Java, Spring Boot, and Node.js</b>, scalable database schemas with <b>MySQL and Supabase</b>, and responsive, fluid frontend interfaces with <b>React and modern JavaScript/TypeScript</b>.
+  Full Stack Software Engineer with a strong foundation in designing resilient backend architectures using <b>Java & Spring Boot</b>, scalable microservices and RESTful APIs, paired with high-performance responsive web interfaces built in <b>React and modern TypeScript/JavaScript</b>. Experienced in shipping production-grade applications across healthcare, hospitality, education, and dairy sectors.
 </p>
+
+---
+
+## 💻 Production & Live Implemented Projects
+
+<p>Selected commercial and production deployments delivered with end-to-end architecture, modern UI/UX, and cloud infrastructure:</p>
+
+| # | Client / Platform | Problem Solved & Engineering Scope | Core Tech Stack | Verification |
+| :-: | :--- | :--- | :--- | :---: |
+| 01 | **Hotel Namrata** | Hospitality management platform offering responsive digital menus, table reservation workflows, and banquet enquiry management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
+| 02 | **HealthTrack Ahilyanagar** | Civic digital healthcare registry providing real-time local medical directory, hospital data mapping, and public health intelligence. | `JavaScript` `Node.js` `Cloud Host` | [🔗 Live Demo](https://healthtrack.marathifreelancer.in/) |
+| 03 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
+| 04 | **Shivneri Dairy Management** | Enterprise milk collection and dairy SaaS dashboard handling milk quality tracking, tiered rate billing calculations, and dairy analytics. | `React` `Express.js` `Firebase` `Dashboard` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
+| 05 | **CASAS Campus Navigator** | Interactive indoor and outdoor campus directory and navigational guide mapping academic facilities and points of interest. | `Kotlin` `Android SDK` `React` `Firebase` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
+| 06 | **Shivrakshak Career Academy** | Official educational institution web portal delivering career coaching curriculums, defense entrance exam modules, and student registrations. | `Next.js` `React` `Tailwind CSS` `Web Platform` | [🔗 Live Demo](https://shivrakshakacademy.in/) |
+| 07 | **Kailas Udupi Restaurant** | Commercial food and culinary platform showcasing restaurant services, interactive menus, customer feedback, and branding. | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://kailas-udupi.vercel.app/) |
 
 ---
 
@@ -32,19 +48,19 @@
 
 <div align="center">
 
-### Backend & Database Engineering
+### Backend & Database Architecture
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_APIs-451126?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/REST_APIs-451126?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-### Frontend & Mobile Development
+### Frontend Engineering & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -55,13 +71,13 @@
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-### DevOps & Development Toolchain
+### DevOps & Cloud Toolchain
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
@@ -69,26 +85,10 @@
 
 ---
 
-## 💻 Featured Projects & Live Implementations
-
-| Project & Problem Solved | Core Tech Stack | Verification Link |
-| :--- | :--- | :---: |
-| **Varad Netralaya**<br/><sub>Specialized healthcare portal for hospital workflow and patient appointment management.</sub> | `React` `Tailwind CSS` `Node.js` `Supabase` | [🔗 Live Demo](https://varad-netralaya.vercel.app/) |
-| **Shivrakshak Career Academy**<br/><sub>Educational platform delivering competitive exam preparation resources and student guidance.</sub> | `Next.js` `React` `Tailwind CSS` `Supabase` | [🔗 Live Demo](https://shivrakshak-academy1-kappa.vercel.app/) |
-| **Firodiya College ERP**<br/><sub>Comprehensive institutional ERP facilitating student records, staff operations, and academics.</sub> | `React` `TypeScript` `Tailwind CSS` `Supabase` | [🔗 Live Demo](https://college-erp-system-seven.vercel.app/) |
-| **Shivneri Dairy Management**<br/><sub>Automated milk collection, rate calculation, and dairy inventory management solution.</sub> | `React` `Tailwind CSS` `Express.js` `Firebase` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
-| **CASAS Campus Navigator**<br/><sub>Indoor and outdoor university campus routing and location discovery platform.</sub> | `Kotlin` `Android SDK` `React` `Firebase` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
-| **NIFTY Options Screener**<br/><sub>Quantitative financial analysis tool for monitoring derivative market trends and volume spikes.</sub> | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://nifty-options-screener.vercel.app/) |
-| **HealthTrack Ahilyanagar**<br/><sub>Civic health intelligence tool providing real-time local medical facility data.</sub> | `JavaScript` `Puppeteer` `Node.js` | [🔗 Live Demo](https://healthtrack-ahilyanagar.vercel.app/) |
-| **BOLU English**<br/><sub>Interactive mobile application designed for vernacular-to-English language learning.</sub> | `React Native` `Expo` `Firebase` | [🔗 Live Demo](https://bolu-english.vercel.app/) |
-| **Transport & Logistics Management**<br/><sub>Fleet tracking and freight dispatch management platform for transport operators.</sub> | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://sapna1231.vercel.app/) |
-
----
-
 ## 📊 Genuine GitHub Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Readme Streak (Official working demolab endpoint) -->
+  <!-- GitHub Readme Streak (Burgundy Visual Palette) -->
   <a href="https://github.com/bhandarisaurabh500">
     <img src="https://streak-stats.demolab.com/?user=bhandarisaurabh500&theme=radical&background=10070C&border=451126&stroke=C77B9B&ring=701A3D&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=E5B5C7&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=E5B5C7&hide_border=false" alt="Saurabh's GitHub Streak" />
   </a>
@@ -97,7 +97,7 @@
 <br/>
 
 <div align="center">
-  <!-- GitHub Readme Stats (Official working vercel endpoint in dark burgundy) -->
+  <!-- GitHub Readme Stats (Official vercel endpoint in Midnight Burgundy) -->
   <a href="https://github.com/bhandarisaurabh500">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhandarisaurabh500&show_icons=true&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&bg_color=10070C&border_color=451126&hide_border=false" alt="GitHub Stats" />
   </a>
@@ -112,10 +112,10 @@
 
 ## 🎯 Current Engineering Focus
 
-- ⚡ **High-Throughput Architectures:** Designing asynchronous, decoupled services with Spring Boot and message brokers.
-- 🛠️ **Full Stack Enterprise Systems:** Building end-to-end type-safe solutions with TypeScript, React, and RESTful backends.
-- 🌐 **Database Design & Performance:** Indexing strategies, relational integrity in MySQL, and real-time synchronizations.
-- 📦 **Containerization & CI/CD:** Packaging production workloads with Docker for repeatable and resilient cloud deployments.
+- ⚡ **High-Throughput Microservices:** Designing asynchronous, decoupled services with Spring Boot and robust database layers.
+- 🛠️ **Enterprise Full Stack Solutions:** Building end-to-end type-safe solutions with TypeScript, React, and secured RESTful backends.
+- 🌐 **Database Optimization:** Relational integrity, query performance indexing in MySQL/PostgreSQL, and real-time state syncing.
+- 📦 **Containerized Deployments:** Packaging container workloads with Docker for repeatable, cloud-agnostic deployments.
 
 ---
 

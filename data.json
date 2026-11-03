@@ -1,0 +1,60 @@
+{
+  "name": "Saurabh Bhandari",
+  "username": "bhandarisaurabh500",
+  "role": "Java Full Stack Developer",
+  "education": "M.Sc Computer Science",
+  "location": "Ahilyanagar, Maharashtra, India",
+  "status": "Building • Learning • Shipping",
+  "skills": {
+    "core": ["Java", "JavaScript", "TypeScript"],
+    "backend": ["Spring Boot", "REST APIs", "Node.js", "Express.js"],
+    "frontend": ["React.js", "Next.js", "Tailwind CSS"],
+    "database": ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
+    "mobile": ["Kotlin", "Android SDK"],
+    "tools": ["Git", "GitHub", "Docker", "Maven", "Postman", "Vercel"]
+  },
+  "projects": [
+    {
+      "name": "Hotel Namrata",
+      "url": "https://hotel-namrata1.vercel.app/",
+      "desc": "Hospitality management and digital menu/booking web platform.",
+      "tech": ["React", "Tailwind CSS", "Vercel"]
+    },
+    {
+      "name": "HealthTrack Ahilyanagar",
+      "url": "https://healthtrack.marathifreelancer.in/",
+      "desc": "Civic digital health directory and real-time medical facility platform.",
+      "tech": ["JavaScript", "Node.js", "Cloud Deployment"]
+    },
+    {
+      "name": "Dr. Borude Clinic & Healthcare",
+      "url": "https://dr-borude-website.vercel.app/",
+      "desc": "Specialized clinic portal for patient appointments and healthcare advisory.",
+      "tech": ["React", "Tailwind CSS", "Vercel"]
+    },
+    {
+      "name": "Shivneri Dairy Management",
+      "url": "https://dairy-app-sepia.vercel.app/dashboard",
+      "desc": "Enterprise milk collection, rate calculation, and dairy inventory SaaS.",
+      "tech": ["React", "Express.js", "Firebase", "Dashboard"]
+    },
+    {
+      "name": "CASAS Campus Navigator",
+      "url": "https://campus-navigator-bice.vercel.app/",
+      "desc": "Campus mapping, building directory, and routing navigation engine.",
+      "tech": ["Kotlin", "Android SDK", "React", "Firebase"]
+    },
+    {
+      "name": "Shivrakshak Career Academy",
+      "url": "https://shivrakshakacademy.in/",
+      "desc": "Production educational portal delivering competitive exam resources and guidance.",
+      "tech": ["Next.js", "React", "Tailwind CSS", "Production Web"]
+    },
+    {
+      "name": "Kailas Udupi Restaurant",
+      "url": "https://kailas-udupi.vercel.app/",
+      "desc": "Modern culinary showcase and online ordering/menu interface.",
+      "tech": ["React", "Tailwind CSS", "Vite"]
+    }
+  ]
+}
