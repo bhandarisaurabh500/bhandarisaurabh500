@@ -1,0 +1,52 @@
+<svg width="1180" height="120" viewBox="0 0 1180 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulseText {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; }
+      }
+      @keyframes beamMove {
+        0% { transform: translateX(-200px); }
+        100% { transform: translateX(1380px); }
+      }
+      .beam {
+        animation: beamMove 5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
+      .pulse {
+        animation: pulseText 3s ease-in-out infinite;
+      }
+    </style>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="50%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C77B9B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1180" height="120" rx="14" fill="url(#footerBg)" stroke="#451126" stroke-width="1"/>
+
+  <!-- Scanning Light Beam on top border -->
+  <g>
+    <line x1="0" y1="1" x2="1180" y2="1" stroke="#33101E" stroke-width="1.5"/>
+    <rect class="beam" x="0" y="0" width="200" height="2" fill="url(#beamGrad)"/>
+  </g>
+
+  <!-- Centered Content -->
+  <g text-anchor="middle" class="pulse">
+    <text x="590" y="52" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#E5B5C7">
+      CRAFTED WITH INTENTION • ENGINEERED TO SCALE
+    </text>
+    <text x="590" y="80" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#C77B9B">
+      © 2026 Saurabh Bhandari — Java Full Stack Developer • Ahilyanagar, India
+    </text>
+  </g>
+
+  <!-- Decorative Corner Accents -->
+  <circle cx="24" cy="60" r="3" fill="#C77B9B"/>
+  <circle cx="1156" cy="60" r="3" fill="#C77B9B"/>
+</svg>
