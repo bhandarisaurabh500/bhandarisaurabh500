@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/light.svg">
-    <img alt="Saurabh Bhandari - Java Full Stack Developer" src="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Saurabh Bhandari - Java Full Stack Developer" src="dark.svg" width="100%">
   </picture>
 </div>
 
@@ -135,5 +135,5 @@
 
 <!-- Minimal Animated SVG Footer (Burgundy Visual System) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/footer.svg" alt="Saurabh Bhandari Footer" width="100%">
+  <img src="footer.svg" alt="Saurabh Bhandari Footer" width="100%">
 </div>
