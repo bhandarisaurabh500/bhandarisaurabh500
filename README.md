@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Saurabh Bhandari - Java Full Stack Developer" src="dark.svg" width="100%">
+    <img alt="Saurabh Bhandari - Full Stack Developer" src="dark.svg" width="100%">
   </picture>
 </div>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Java Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in robust backend systems with <b>Java & Spring Boot</b>, RESTful microservices, and production-ready web interfaces with <b>React, TypeScript & Node.js</b>. Delivered real-world applications in healthcare, hospitality, education, and dairy sectors.
+  Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in building production web applications with <b>React, Node.js & Express.js</b> on the frontend and backend, and <b>Java & Spring Boot</b> for enterprise systems. Delivered real-world applications in healthcare, hospitality, education, and dairy sectors.
 </p>
 
 ---
