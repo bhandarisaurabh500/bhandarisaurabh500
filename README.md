@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=C77B9B&center=true&vCenter=true&width=600&height=55&lines=%F0%9F%91%8B+Hi%2C+I'm+Saurabh+Bhandari;%F0%9F%8E%93+M.Sc+Computer+Science;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%7C+React+%7C+Node.js;%F0%9F%9A%80+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=C77B9B&center=true&vCenter=true&width=600&height=55&lines=%F0%9F%91%8B+Hi%2C+I'm+Saurabh+Bhandari;%F0%9F%8E%93+M.Sc+Computer+Science;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+React+%7C+Node.js+%7C+Express.js;%F0%9F%9A%80+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in building production web applications with <b>React, Node.js & Express.js</b> on the frontend and backend, and <b>Java & Spring Boot</b> for enterprise systems. Delivered real-world applications in healthcare, hospitality, education, and dairy sectors.
+  Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in building production web applications with <b>React, Node.js & Express.js</b>. Also skilled in <b>Java & Spring Boot</b> for backend systems. Delivered real-world applications in healthcare, hospitality, education, and dairy sectors.
 </p>
 
 ---
@@ -113,10 +113,10 @@
 
 > Building robust enterprise web systems with high performance, clean architecture, and reliable cloud delivery:
 
-- ⚡ **Distributed Microservices & REST Architectures:** Designing high-throughput, decoupled backend services with Spring Boot and Java, prioritizing low latency and fault tolerance.
-- 🛠️ **Full Stack Web Application Development:** Developing type-safe, responsive enterprise web applications using React, modern TypeScript, and secured RESTful backends.
-- 🌐 **Database Architecture & Query Optimization:** Relational schema design, complex query optimization, indexing, and transactional integrity across MySQL & PostgreSQL.
-- 📦 **Containerized Deployments & DevOps:** Packaging applications with Docker containers for repeatable, reliable cloud hosting and deployment.
+- ⚡ **Full Stack Web Development:** Building end-to-end production web apps using React, Node.js, and Express.js with clean REST API design and reliable backend architecture.
+- 🛠️ **Frontend & UI Engineering:** Developing type-safe, responsive interfaces using React, Next.js, TypeScript, and Tailwind CSS deployed on Vercel.
+- 🌐 **Database Design & Query Optimization:** Relational schema design, query performance indexing, and transactional integrity across MySQL, PostgreSQL & Firebase.
+- 📦 **Cloud Deployments & DevOps:** Packaging and deploying applications with Docker and Vercel for repeatable, reliable cloud hosting.
 
 ---
 
