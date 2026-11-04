@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C77B9B&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Engineering+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=C77B9B&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%8E%93+M.Sc+Computer+Science;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Building+Scalable+Cloud+Web+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Full Stack Software Engineer with a strong foundation in designing resilient backend architectures using <b>Java & Spring Boot</b>, scalable microservices and RESTful APIs, paired with high-performance responsive web interfaces built in <b>React and modern TypeScript/JavaScript</b>. Experienced in shipping production-grade applications across healthcare, hospitality, education, and dairy sectors.
+  Java Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in robust backend architectures with <b>Java & Spring Boot</b>, RESTful microservices, and high-performance responsive web interfaces built in <b>React and modern TypeScript/JavaScript</b>. Experienced in shipping production-grade applications across healthcare, hospitality, education, and dairy sectors.
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p>Selected commercial and production deployments delivered with end-to-end architecture, modern UI/UX, and cloud infrastructure:</p>
 
-| # | Client / Platform | Problem Solved & Engineering Scope | Core Tech Stack | Verification |
+| # | Client / Platform | Problem Solved & Technical Scope | Core Tech Stack | Verification |
 | :-: | :--- | :--- | :--- | :-: |
 | **01** | **Hotel Namrata**<br/><sub>Hospitality Management</sub> | Responsive digital ordering workflows, real-time table reservation systems, and banquet event enquiry management. | `React` `Tailwind CSS` `Vercel` | [🔗 **Live Demo ↗**](https://hotel-namrata1.vercel.app/) |
 | **02** | **Dr. Borude Healthcare**<br/><sub>Clinical Patient Portal</sub> | Healthcare portal enabling doctor OPD schedule management, patient appointment bookings, and clinical treatment advisories. | `React` `Tailwind CSS` `Production UI` | [🔗 **Live Demo ↗**](https://dr-borude-website.vercel.app/) |
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Supabase-190B12?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-### Frontend Engineering & Mobile
+### Frontend & Mobile Development
 <p>
   <img src="https://img.shields.io/badge/React-190B12?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-190B12?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -109,14 +109,14 @@
 
 ---
 
-## 🎯 Current Engineering Focus
+## 🎯 Core Technical Focus
 
-> Architecting resilient enterprise systems with a focus on latency optimization, modular component design, and scalable cloud delivery:
+> Building robust enterprise web systems with high performance, clean architecture, and reliable cloud delivery:
 
 - ⚡ **Distributed Microservices & REST Architectures:** Designing high-throughput, decoupled backend services with Spring Boot and Java, prioritizing low latency and fault tolerance.
-- 🛠️ **End-to-End Enterprise Full Stack:** Developing type-safe, responsive enterprise applications using React, modern TypeScript, and secured REST APIs.
-- 🌐 **Database Optimization & State Consistency:** Relational schema design, complex query optimization, indexing, and transactional integrity across MySQL & PostgreSQL.
-- 📦 **Containerized CI/CD & Cloud Delivery:** Streamlined Docker containerization workflows, automated testing pipelines, and production cloud hosting.
+- 🛠️ **Full Stack Web Application Development:** Developing type-safe, responsive enterprise web applications using React, modern TypeScript, and secured RESTful backends.
+- 🌐 **Database Architecture & Query Optimization:** Relational schema design, complex query optimization, indexing, and transactional integrity across MySQL & PostgreSQL.
+- 📦 **Containerized Deployments & DevOps:** Packaging applications with Docker containers for repeatable, reliable cloud hosting and deployment.
 
 ---
 
