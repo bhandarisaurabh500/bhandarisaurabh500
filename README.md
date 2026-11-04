@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=C77B9B&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%8E%93+M.Sc+Computer+Science;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Building+Scalable+Cloud+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=C77B9B&center=true&vCenter=true&width=600&height=55&lines=%F0%9F%91%8B+Hi%2C+I'm+Saurabh+Bhandari;%F0%9F%8E%93+M.Sc+Computer+Science;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%7C+React+%7C+Node.js;%F0%9F%9A%80+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Java Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in robust backend architectures with <b>Java & Spring Boot</b>, RESTful microservices, and high-performance responsive web interfaces built in <b>React and modern TypeScript/JavaScript</b>. Experienced in shipping production-grade applications across healthcare, hospitality, education, and dairy sectors.
+  Java Full Stack Developer with an <b>M.Sc in Computer Science</b>, specializing in robust backend systems with <b>Java & Spring Boot</b>, RESTful microservices, and production-ready web interfaces with <b>React, TypeScript & Node.js</b>. Delivered real-world applications in healthcare, hospitality, education, and dairy sectors.
 </p>
 
 ---
