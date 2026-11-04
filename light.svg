@@ -115,10 +115,10 @@
   <!-- Tagline / Code Snippet -->
   <g class="fade" style="animation-delay: 0.35s">
     <text x="72" y="300" font-family="'Courier New', Courier, monospace" font-size="13" fill="#190B12">
-      <tspan fill="#701A3D">const</tspan> dev = { <tspan fill="#451126">qualification:</tspan> <tspan fill="#701A3D">"M.Sc Computer Science"</tspan>, <tspan fill="#451126">focus:</tspan> <tspan fill="#701A3D">"Java &amp; Full Stack"</tspan> };
+      <tspan fill="#701A3D">const</tspan> dev = { <tspan fill="#451126">qualification:</tspan> <tspan fill="#701A3D">"M.Sc Computer Science"</tspan>, <tspan fill="#451126">focus:</tspan> <tspan fill="#701A3D">"Full Stack Web Development"</tspan> };
     </text>
     <text x="72" y="326" font-family="'Inter', -apple-system, sans-serif" font-size="13.5" font-weight="500" fill="#701A3D">
-      Spring Boot Microservices • Scalable REST APIs • React UI • MySQL / Docker
+      React.js &#8226; Node.js &#8226; Express.js &#8226; REST APIs &#8226; MySQL &#8226; Docker
     </text>
   </g>
 
@@ -126,65 +126,65 @@
   <g>
     
       <g class="fade" style="animation-delay: 0.40s">
-        <rect x="72" y="360" width="63.2" height="32" rx="8"
+        <rect x="72" y="360" width="72" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="103.6" y="380" text-anchor="middle"
-              font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
-              fill="#451126">Java</text>
-      </g>
-    
-      <g class="fade" style="animation-delay: 0.45s">
-        <rect x="145.2" y="360" width="124.80000000000001" height="32" rx="8"
-              fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="207.6" y="380" text-anchor="middle"
-              font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
-              fill="#451126">Spring Boot</text>
-      </g>
-    
-      <g class="fade" style="animation-delay: 0.50s">
-        <rect x="280" y="360" width="72" height="32" rx="8"
-              fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="316" y="380" text-anchor="middle"
+        <text x="108" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">React</text>
       </g>
     
-      <g class="fade" style="animation-delay: 0.55s">
-        <rect x="362" y="360" width="89.60000000000001" height="32" rx="8"
+      <g class="fade" style="animation-delay: 0.45s">
+        <rect x="154" y="360" width="89.60000000000001" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="406.8" y="380" text-anchor="middle"
+        <text x="198.8" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">Node.js</text>
       </g>
     
-      <g class="fade" style="animation-delay: 0.60s">
-        <rect x="461.6" y="360" width="116" height="32" rx="8"
+      <g class="fade" style="animation-delay: 0.50s">
+        <rect x="253.60000000000002" y="360" width="116" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="519.6" y="380" text-anchor="middle"
+        <text x="311.6" y="380" text-anchor="middle"
+              font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
+              fill="#451126">Express.js</text>
+      </g>
+    
+      <g class="fade" style="animation-delay: 0.55s">
+        <rect x="379.6" y="360" width="116" height="32" rx="8"
+              fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
+        <text x="437.6" y="380" text-anchor="middle"
+              font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
+              fill="#451126">JavaScript</text>
+      </g>
+    
+      <g class="fade" style="animation-delay: 0.60s">
+        <rect x="505.6" y="360" width="116" height="32" rx="8"
+              fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
+        <text x="563.6" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">TypeScript</text>
       </g>
     
       <g class="fade" style="animation-delay: 0.65s">
-        <rect x="587.6" y="360" width="72" height="32" rx="8"
+        <rect x="631.6" y="360" width="72" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="623.6" y="380" text-anchor="middle"
+        <text x="667.6" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">MySQL</text>
       </g>
     
       <g class="fade" style="animation-delay: 0.70s">
-        <rect x="669.6" y="360" width="116" height="32" rx="8"
+        <rect x="713.6" y="360" width="116" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="727.6" y="380" text-anchor="middle"
+        <text x="771.6" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">PostgreSQL</text>
       </g>
     
       <g class="fade" style="animation-delay: 0.75s">
-        <rect x="795.6" y="360" width="80.80000000000001" height="32" rx="8"
+        <rect x="839.6" y="360" width="80.80000000000001" height="32" rx="8"
               fill="#FFFFFF" stroke="#E5B5C7" stroke-width="1.2"/>
-        <text x="836" y="380" text-anchor="middle"
+        <text x="880" y="380" text-anchor="middle"
               font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="600"
               fill="#451126">Docker</text>
       </g>
@@ -195,9 +195,9 @@
   <g class="fade" style="animation-delay: 0.65s">
     <circle cx="82" cy="442" r="4" fill="#701A3D"/>
     <text x="96" y="446" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="500"
-          fill="#701A3D">Ahilyanagar, Maharashtra, India &nbsp;•&nbsp; 🎓 M.Sc Computer Science</text>
+          fill="#701A3D">Ahilyanagar, Maharashtra, India &nbsp;&#8226;&nbsp; M.Sc Computer Science</text>
     <text x="72" y="472" font-family="'Courier New', Courier, monospace" font-size="11.5"
-          fill="#701A3D" letter-spacing="1">// VERIFIED PORTFOLIO • PRODUCTION DEPLOYMENTS</text>
+          fill="#701A3D" letter-spacing="1">M.SC COMPUTER SCIENCE &#8226; FULL STACK DEVELOPER</text>
   </g>
 
   <!-- Right: Portrait Section with Geometric Orbital Frame -->
