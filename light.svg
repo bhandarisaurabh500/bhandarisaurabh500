@@ -102,7 +102,7 @@
 
     <!-- Name Heading -->
     <text x="72" y="196" font-family="'Inter', -apple-system, sans-serif" font-size="46" font-weight="800"
-          letter-spacing="-0.8" fill="url(#gradText-light)">Saurabh Bhandari</text>
+          letter-spacing="-0.8" fill="#190B12">Saurabh Bhandari</text>
 
     <!-- Role Subtitle -->
     <text x="72" y="235" font-family="'Inter', -apple-system, sans-serif" font-size="20" font-weight="500"
@@ -197,7 +197,7 @@
     <text x="96" y="446" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="500"
           fill="#701A3D">Ahilyanagar, Maharashtra, India</text>
     <text x="72" y="472" font-family="'Courier New', Courier, monospace" font-size="11.5"
-          fill="#EED7E0" letter-spacing="1">SYSTEM VERIFIED // CRAFTED WITH PRECISION</text>
+          fill="#701A3D" letter-spacing="1">SYSTEM VERIFIED // CRAFTED WITH PRECISION</text>
   </g>
 
   <!-- Right: Portrait Section with Geometric Orbital Frame -->
@@ -223,6 +223,14 @@
     <path d="M 1080 118 L 1102 118 L 1102 140" stroke="#701A3D" stroke-width="2.5" fill="none"/>
     <path d="M 858 380 L 858 402 L 880 402" stroke="#701A3D" stroke-width="2.5" fill="none"/>
     <path d="M 1080 402 L 1102 402 L 1102 380" stroke="#701A3D" stroke-width="2.5" fill="none"/>
+
+    <!-- Prominent Name Plate below portrait -->
+    <rect x="875" y="415" width="210" height="32" rx="16"
+          fill="#F7EDF1" stroke="#C77B9B" stroke-width="1.2"/>
+    <circle cx="894" cy="431" r="3.5" fill="#3DDC84"/>
+    <text x="986" y="435" text-anchor="middle"
+          font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="700"
+          letter-spacing="0.5" fill="#190B12">Saurabh Bhandari</text>
   </g>
 
   <!-- Outer Border Frame -->

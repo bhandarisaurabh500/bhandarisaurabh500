@@ -46,8 +46,8 @@
     </clipPath>
 
     <linearGradient id="gradText-dark" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F8F0F3"/>
-      <stop offset="60%" stop-color="#E5B5C7"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#F0D7E2"/>
       <stop offset="100%" stop-color="#C77B9B"/>
     </linearGradient>
 
@@ -91,7 +91,7 @@
     <rect x="940" y="51" width="150" height="24" rx="12" fill="#451126" fill-opacity="0.3" stroke="#C77B9B" stroke-width="1"/>
     <circle cx="954" cy="63" r="3.5" fill="#C77B9B"/>
     <text x="965" y="67" font-family="'Courier New', Courier, monospace" font-size="10.5" font-weight="700"
-          fill="#F8F0F3">OPEN TO CONNECT</text>
+          fill="#FFFFFF">OPEN TO CONNECT</text>
   </g>
 
   <!-- Main Content (Left) -->
@@ -102,11 +102,11 @@
 
     <!-- Name Heading -->
     <text x="72" y="196" font-family="'Inter', -apple-system, sans-serif" font-size="46" font-weight="800"
-          letter-spacing="-0.8" fill="url(#gradText-dark)">Saurabh Bhandari</text>
+          letter-spacing="-0.8" fill="#FFFFFF">Saurabh Bhandari</text>
 
     <!-- Role Subtitle -->
     <text x="72" y="235" font-family="'Inter', -apple-system, sans-serif" font-size="20" font-weight="500"
-          fill="#E5B5C7">Java Full Stack Developer</text>
+          fill="#F0D7E2">Java Full Stack Developer</text>
   </g>
 
   <!-- Animated Glowing Underline (Sri Tech guide requirement) -->
@@ -114,8 +114,8 @@
 
   <!-- Tagline / Mission -->
   <g class="fade" style="animation-delay: 0.35s">
-    <text x="72" y="300" font-family="'Courier New', Courier, monospace" font-size="15" fill="#F8F0F3">
-      <tspan fill="#C77B9B">const</tspan> status = <tspan fill="#E5B5C7">"Building • Learning • Shipping"</tspan>;
+    <text x="72" y="300" font-family="'Courier New', Courier, monospace" font-size="15" fill="#FFFFFF">
+      <tspan fill="#C77B9B">const</tspan> status = <tspan fill="#F0D7E2">"Building • Learning • Shipping"</tspan>;
     </text>
     <text x="72" y="326" font-family="'Inter', -apple-system, sans-serif" font-size="14" fill="#C77B9B">
       Architecture • Scalable REST APIs • Clean UI • Enterprise Quality
@@ -197,7 +197,7 @@
     <text x="96" y="446" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="500"
           fill="#C77B9B">Ahilyanagar, Maharashtra, India</text>
     <text x="72" y="472" font-family="'Courier New', Courier, monospace" font-size="11.5"
-          fill="#33101E" letter-spacing="1">SYSTEM VERIFIED // CRAFTED WITH PRECISION</text>
+          fill="#C77B9B" letter-spacing="1">SYSTEM VERIFIED // CRAFTED WITH PRECISION</text>
   </g>
 
   <!-- Right: Portrait Section with Geometric Orbital Frame -->
@@ -223,6 +223,14 @@
     <path d="M 1080 118 L 1102 118 L 1102 140" stroke="#C77B9B" stroke-width="2.5" fill="none"/>
     <path d="M 858 380 L 858 402 L 880 402" stroke="#C77B9B" stroke-width="2.5" fill="none"/>
     <path d="M 1080 402 L 1102 402 L 1102 380" stroke="#C77B9B" stroke-width="2.5" fill="none"/>
+
+    <!-- Prominent Name Plate below portrait -->
+    <rect x="875" y="415" width="210" height="32" rx="16"
+          fill="#190B12" stroke="#451126" stroke-width="1.2"/>
+    <circle cx="894" cy="431" r="3.5" fill="#3DDC84"/>
+    <text x="986" y="435" text-anchor="middle"
+          font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="700"
+          letter-spacing="0.5" fill="#FFFFFF">Saurabh Bhandari</text>
   </g>
 
   <!-- Outer Border Frame -->

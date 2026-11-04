@@ -21,12 +21,6 @@
       "tech": ["React", "Tailwind CSS", "Vercel"]
     },
     {
-      "name": "HealthTrack Ahilyanagar",
-      "url": "https://healthtrack.marathifreelancer.in/",
-      "desc": "Civic digital health directory and real-time medical facility platform.",
-      "tech": ["JavaScript", "Node.js", "Cloud Deployment"]
-    },
-    {
       "name": "Dr. Borude Clinic & Healthcare",
       "url": "https://dr-borude-website.vercel.app/",
       "desc": "Specialized clinic portal for patient appointments and healthcare advisory.",
