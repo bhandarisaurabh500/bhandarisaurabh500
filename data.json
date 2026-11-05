@@ -1,15 +1,15 @@
 {
   "name": "Saurabh Bhandari",
   "username": "bhandarisaurabh500",
-  "role": "Java Full Stack Developer",
-  "education": "M.Sc Computer Science",
+  "role": "Full Stack Developer",
+  "education": "M.Sc Computer Science (2nd Year) • B.Sc Computer Science",
   "location": "Ahilyanagar, Maharashtra, India",
   "status": "Building • Learning • Shipping",
   "skills": {
     "core": ["Java", "JavaScript", "TypeScript"],
     "backend": ["Spring Boot", "REST APIs", "Node.js", "Express.js"],
     "frontend": ["React.js", "Next.js", "Tailwind CSS"],
-    "database": ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
+    "database": ["MySQL", "Supabase", "Firebase"],
     "mobile": ["Kotlin", "Android SDK"],
     "tools": ["Git", "GitHub", "Docker", "Maven", "Postman", "Vercel"]
   },
@@ -36,13 +36,13 @@
       "name": "CASAS Campus Navigator",
       "url": "https://campus-navigator-bice.vercel.app/",
       "desc": "Campus mapping, building directory, and routing navigation engine.",
-      "tech": ["Kotlin", "Android SDK", "React", "Firebase"]
+      "tech": ["Kotlin", "Android SDK", "React"]
     },
     {
       "name": "Shivrakshak Career Academy",
       "url": "https://shivrakshakacademy.in/",
       "desc": "Production educational portal delivering competitive exam resources and guidance.",
-      "tech": ["Next.js", "React", "Tailwind CSS", "Production Web"]
+      "tech": ["Next.js", "React", "Tailwind CSS"]
     },
     {
       "name": "Kailas Udupi Restaurant",

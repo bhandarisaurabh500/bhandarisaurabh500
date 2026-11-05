@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Full Stack Developer" width="100%">
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  Full Stack Software Engineer specialized in architecting and shipping commercial <b>Web Platforms</b> (Java, Spring Boot, React) and <b>Native Mobile Applications</b> (Android SDK, Kotlin). Proven track record of delivering end-to-end production systems across healthcare, hospitality, dairy enterprise, and education.
+  <b>Full Stack Developer</b> with a strong academic foundation in Computer Science (<b>B.Sc Computer Science</b> graduate, currently pursuing <b>M.Sc Computer Science - 2nd Year</b>). Experienced in architecting production <b>Web Platforms</b> using Java, Spring Boot, and React, alongside native <b>Mobile Applications</b> using Android SDK and Kotlin.
 </p>
 
 ---
@@ -37,9 +37,9 @@
 
 ### 💻 Production & Live Implemented Projects
 
-<p>Commercial web portals and mobile software engineered with scalable architecture, responsive UI, and verified cloud deployments:</p>
+<p>Commercial web platforms and mobile applications built with clean architecture, responsive design, and active deployments:</p>
 
-| # | Client / Platform | Core Engineering Scope | Technology Stack | Deployment |
+| # | Client / Platform | Core Implementation | Technology Stack | Deployment |
 | :-: | :--- | :--- | :--- | :---: |
 | 01 | **Hotel Namrata** | Commercial hospitality portal offering responsive digital menus, dining reservation workflows, and banquet management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
 | 02 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
@@ -50,11 +50,11 @@
 
 ---
 
-### 🏛️ Engineering Stack & Capabilities
+### 🏛️ Technology Stack & Core Competencies
 
 <div align="center">
 
-#### Web Engineering & Backend APIs
+#### Web Development & Backend APIs
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Firebase_Mobile-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### DevOps & Cloud Delivery
+#### Development Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

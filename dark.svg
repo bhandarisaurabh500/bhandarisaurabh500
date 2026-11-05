@@ -44,52 +44,52 @@
   <circle cx="100" cy="54" r="4.5" fill="#C77B9B"/>
   
   <text x="590" y="58" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="600"
-        letter-spacing="1" fill="#A06D83">saurabh-bhandari // enterprise-software-engineer</text>
+        letter-spacing="1" fill="#A06D83">saurabh-bhandari // full-stack-developer</text>
 
   <rect x="965" y="43" width="145" height="22" rx="11" fill="#701A3D" fill-opacity="0.35" stroke="#C77B9B" stroke-width="1"/>
   <circle cx="978" cy="54" r="3" fill="#C77B9B"/>
   <text x="987" y="57" font-family="'Courier New', Courier, monospace" font-size="9.5" font-weight="700"
         fill="#FBF5F7">OPEN FOR WORK</text>
 
-  <!-- Main Left Hero: Clear Identity -->
+  <!-- Main Left Hero: 100% Genuine Identity -->
   <g transform="translate(60, 0)">
-    <!-- Category Pill / Identity Tagline -->
+    <!-- Category Pill -->
     <text x="0" y="122" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="700"
-          letter-spacing="2" fill="#C77B9B">FULL STACK SOFTWARE ENGINEER</text>
+          letter-spacing="2" fill="#C77B9B">FULL STACK DEVELOPER</text>
 
     <!-- Name Heading -->
     <text x="0" y="172" font-family="'Inter', -apple-system, sans-serif" font-size="46" font-weight="800"
           letter-spacing="-0.8" fill="#FBF5F7">Saurabh Bhandari</text>
 
-    <!-- Clear What We Build Proposition -->
+    <!-- Real Capabilities -->
     <text x="0" y="210" font-family="'Inter', -apple-system, sans-serif" font-size="18" font-weight="600"
           fill="#E8B9CB">Building Production Web Platforms &amp; Mobile Applications</text>
 
     <text x="0" y="238" font-family="'Inter', -apple-system, sans-serif" font-size="13.5" font-weight="400"
-          fill="#A06D83">Specialized in Java/Spring Boot microservices, high-performance React frontends, and native Android apps.</text>
+          fill="#A06D83">Specialized in Java/Spring Boot backends, modern React web applications, and native Android apps.</text>
   </g>
 
-  <!-- Right: 2 Distinct Pillars (Web Engineering & Mobile Engineering) -->
+  <!-- Right: 2 Distinct Pillars -->
   <g transform="translate(730, 102)">
-    <!-- Pillar 1: Web Applications -->
+    <!-- Pillar 1: Web Development -->
     <rect x="0" y="0" width="390" height="96" rx="12" fill="#170B13" stroke="#2A0B17" stroke-width="1.2"/>
     <rect x="0" y="0" width="4" height="96" rx="2" fill="#C77B9B"/>
-    <text x="20" y="28" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#C77B9B">WEB ENGINEERING &amp; APIS</text>
+    <text x="20" y="28" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#C77B9B">WEB DEVELOPMENT &amp; APIS</text>
     <text x="20" y="50" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#FBF5F7">Java • Spring Boot • React.js • Node.js</text>
-    <text x="20" y="74" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#A06D83">Enterprise REST APIs, MySQL, PostgreSQL, Supabase</text>
+    <text x="20" y="74" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#A06D83">REST APIs, Database Schemas, MySQL, Supabase</text>
 
     <!-- Pillar 2: Mobile Applications -->
     <rect x="0" y="112" width="390" height="96" rx="12" fill="#170B13" stroke="#2A0B17" stroke-width="1.2"/>
     <rect x="0" y="112" width="4" height="96" rx="2" fill="#701A3D"/>
     <text x="20" y="140" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#C77B9B">MOBILE APP DEVELOPMENT</text>
-    <text x="20" y="162" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#FBF5F7">Kotlin • Android SDK • React Native</text>
-    <text x="20" y="186" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#A06D83">Cross-platform architectures &amp; native performance</text>
+    <text x="20" y="162" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#FBF5F7">Kotlin • Android SDK • UI Architecture</text>
+    <text x="20" y="186" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#A06D83">Native Android development &amp; client integrations</text>
   </g>
 
-  <!-- Bottom Location & Education Strip (Valid XML: No &nbsp;) -->
+  <!-- Bottom Genuine Education Strip -->
   <g transform="translate(60, 310)">
     <text x="0" y="0" font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="500" fill="#A06D83">
-      M.Sc Computer Science  •  Ahilyanagar, Maharashtra, India  •  Building • Learning • Shipping
+      M.Sc Computer Science (2nd Year)  •  B.Sc Computer Science  •  Ahilyanagar, India
     </text>
   </g>
 </svg>
