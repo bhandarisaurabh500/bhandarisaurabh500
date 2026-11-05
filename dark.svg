@@ -37,7 +37,7 @@
   <circle cx="1020" cy="120" r="140" fill="#701A3D" opacity="0.25" filter="url(#softBlur-dark)" class="anim-glow"/>
   <circle cx="120" cy="300" r="130" fill="#701A3D" opacity="0.20" filter="url(#softBlur-dark)" class="anim-glow"/>
 
-  <!-- Top Technical Chrome Bar -->
+  <!-- Top Technical Chrome Bar: 100% Accurate (No Engineer) -->
   <rect x="50" y="36" width="1080" height="36" rx="8" fill="#170B13" stroke="#2A0B17" stroke-width="1"/>
   <circle cx="72" cy="54" r="4.5" fill="#701A3D"/>
   <circle cx="86" cy="54" r="4.5" fill="#451126"/>
@@ -51,7 +51,7 @@
   <text x="987" y="57" font-family="'Courier New', Courier, monospace" font-size="9.5" font-weight="700"
         fill="#FBF5F7">OPEN FOR WORK</text>
 
-  <!-- Main Left Hero: 100% Genuine Identity -->
+  <!-- Main Left Hero: 100% Accurate (No Engineer) -->
   <g transform="translate(60, 0)">
     <!-- Category Pill -->
     <text x="0" y="122" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="700"
