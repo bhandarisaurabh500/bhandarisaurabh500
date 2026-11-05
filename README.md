@@ -1,59 +1,60 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Java Full Stack Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E5B5C7&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Building+Scalable+Cloud+%26+Web+Applications" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <b>📍 Ahilyanagar, Maharashtra, India</b> &nbsp;•&nbsp; 
-  <b>🎓 M.Sc Computer Science</b> &nbsp;•&nbsp; 
-  <b>⚡ Building • Learning • Shipping</b>
-</p>
-
-<p align="center">
   <a href="https://github.com/bhandarisaurabh500">
     <img src="https://komarev.com/ghpvc/?username=bhandarisaurabh500&color=701A3D&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-</p>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saurabh-bhandari-sb-7a66b831a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bhandarisaurabh500@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  Full Stack Software Engineer with a strong foundation in designing resilient backend architectures using <b>Java & Spring Boot</b>, scalable microservices and RESTful APIs, paired with high-performance responsive web interfaces built in <b>React and modern TypeScript/JavaScript</b>. Experienced in shipping production-grade applications across healthcare, hospitality, education, and dairy sectors.
+  Full Stack Software Engineer with foundational expertise in architecting resilient backend services using <b>Java & Spring Boot</b>, designing decoupled RESTful APIs, and crafting fluid user interfaces with <b>React & TypeScript</b>. Experienced in taking real-world systems from concept to production across healthcare, hospitality, dairy management, and education.
 </p>
 
 ---
 
-## 📈 24/7 Live Contribution Activity (Snake Animation)
+### 📈 24/7 Live Contribution Activity
 
 <div align="center">
+  <!-- Live Auto-Updating Contribution Graph Snake Animation -->
   <img alt="Saurabh's Contribution Grid Snake" src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
 
-## 💻 Production & Live Implemented Projects
+### 💻 Production & Live Implemented Projects
 
-<p>Selected commercial and production deployments delivered with end-to-end architecture, modern UI/UX, and cloud infrastructure:</p>
+<p>Selected commercial and client applications shipped with end-to-end architecture, responsive design, and production deployments:</p>
 
-| # | Client / Platform | Problem Solved & Engineering Scope | Core Tech Stack | Verification |
+| # | Client / Platform | Architectural Scope & Implementation | Verified Stack | Deployment |
 | :-: | :--- | :--- | :--- | :---: |
-| 01 | **Hotel Namrata** | Hospitality management platform offering responsive digital menus, table reservation workflows, and banquet enquiry management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
+| 01 | **Hotel Namrata** | Commercial hospitality portal offering responsive digital menus, dining reservation workflows, and banquet management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
 | 02 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
-| 03 | **Shivneri Dairy Management** | Enterprise milk collection and dairy SaaS dashboard handling milk quality tracking, tiered rate billing calculations, and dairy analytics. | `React` `Express.js` `Firebase` `Dashboard` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
-| 04 | **CASAS Campus Navigator** | Interactive indoor and outdoor campus directory and navigational guide mapping academic facilities and points of interest. | `Kotlin` `Android SDK` `React` `Firebase` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
-| 05 | **Shivrakshak Career Academy** | Official educational institution web portal delivering career coaching curriculums, defense entrance exam modules, and student registrations. | `Next.js` `React` `Tailwind CSS` `Web Platform` | [🔗 Live Demo](https://shivrakshakacademy.in/) |
+| 03 | **Shivneri Dairy Management** | Enterprise dairy SaaS dashboard managing milk collection, tiered pricing billing rules, and real-time inventory tracking. | `React` `Express.js` `Firebase` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
+| 04 | **CASAS Campus Navigator** | Interactive indoor and outdoor campus directory and navigational guide mapping academic facilities and points of interest. | `Kotlin` `Android SDK` `React` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
+| 05 | **Shivrakshak Career Academy** | Official educational institution web portal delivering career coaching curriculums, defense entrance exam modules, and student registrations. | `Next.js` `React` `Tailwind CSS` | [🔗 Live Demo](https://shivrakshakacademy.in/) |
 | 06 | **Kailas Udupi Restaurant** | Commercial food and culinary platform showcasing restaurant services, interactive menus, customer feedback, and branding. | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://kailas-udupi.vercel.app/) |
 
 ---
 
-## 🏛️ System Architecture & Technology Stack
+### 🏛️ Technical Competencies & Architecture
 
 <div align="center">
 
-### Backend & Database Architecture
+#### Backend & Data Architecture
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -65,7 +66,7 @@
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-### Frontend Engineering & Mobile
+#### Frontend & Mobile Engineering
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -76,7 +77,7 @@
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-### DevOps & Cloud Toolchain
+#### DevOps & Production Tooling
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -90,55 +91,34 @@
 
 ---
 
-## 📊 Genuine GitHub Analytics & Activity
+### 📊 Performance & Activity Analytics
 
 <div align="center">
-  <!-- GitHub Readme Streak (Verified Demolab Working Endpoint) -->
+  <!-- GitHub Readme Streak (Radical / Burgundy Palette) -->
   <a href="https://github.com/bhandarisaurabh500">
-    <img src="https://streak-stats.demolab.com/?user=bhandarisaurabh500&theme=radical&background=10070C&border=451126&stroke=C77B9B&ring=701A3D&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=E5B5C7&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=E5B5C7&hide_border=false" alt="Saurabh's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=bhandarisaurabh500&theme=radical&background=0D070B&border=3D1222&stroke=C77B9B&ring=701A3D&fire=E8B9CB&currStreakNum=FBF5F7&sideNums=E8B9CB&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=E8B9CB&hide_border=false" alt="Saurabh's GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Readme Stats (Fast 100% Online Endpoint) -->
+  <!-- GitHub Stats (Fast Reliable Mirror) -->
   <a href="https://github.com/bhandarisaurabh500">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=bhandarisaurabh500&show_icons=true&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&bg_color=10070C&border_color=451126&hide_border=false" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=bhandarisaurabh500&show_icons=true&title_color=E8B9CB&icon_color=C77B9B&text_color=FBF5F7&bg_color=0D070B&border_color=3D1222&hide_border=false" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
-  <!-- Top Languages Card (Fast 100% Online Endpoint) -->
+  <!-- Top Languages Card -->
   <a href="https://github.com/bhandarisaurabh500">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&title_color=E5B5C7&text_color=F8F0F3&bg_color=10070C&border_color=451126&hide_border=false" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&title_color=E8B9CB&text_color=FBF5F7&bg_color=0D070B&border_color=3D1222&hide_border=false" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-## 🎯 Current Engineering Focus
-
-- ⚡ **High-Throughput Microservices:** Designing asynchronous, decoupled services with Spring Boot and robust database layers.
-- 🛠️ **Enterprise Full Stack Solutions:** Building end-to-end type-safe solutions with TypeScript, React, and secured RESTful backends.
-- 🌐 **Database Optimization:** Relational integrity, query performance indexing in MySQL/PostgreSQL, and real-time state syncing.
-- 📦 **Containerized Deployments:** Packaging container workloads with Docker for repeatable, cloud-agnostic deployments.
-
----
-
-## 🤝 Verified Professional Links
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=451126)](https://github.com/bhandarisaurabh500)
-&nbsp;&nbsp;
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=701A3D)](https://www.linkedin.com/in/saurabh-bhandari-sb-7a66b831a)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-bhandarisaurabh500@gmail.com-451126?style=for-the-badge&logo=gmail&logoColor=white&labelColor=190B12)](mailto:bhandarisaurabh500@gmail.com)
-
-</div>
-
 <br/>
 
-<!-- Minimal Animated SVG Footer (Burgundy Visual System) -->
+<!-- Minimal Impeccable Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/footer.svg" alt="Saurabh Bhandari Footer" width="100%">
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/footer.svg" alt="Saurabh Bhandari Signature" width="100%">
 </div>
