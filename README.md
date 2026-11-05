@@ -35,12 +35,11 @@
 | # | Client / Platform | Problem Solved & Engineering Scope | Core Tech Stack | Verification |
 | :-: | :--- | :--- | :--- | :---: |
 | 01 | **Hotel Namrata** | Hospitality management platform offering responsive digital menus, table reservation workflows, and banquet enquiry management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
-| 02 | **HealthTrack Ahilyanagar** | Civic digital healthcare registry providing real-time local medical directory, hospital data mapping, and public health intelligence. | `JavaScript` `Node.js` `Cloud Host` | [🔗 Live Demo](https://healthtrack.marathifreelancer.in/) |
-| 03 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
-| 04 | **Shivneri Dairy Management** | Enterprise milk collection and dairy SaaS dashboard handling milk quality tracking, tiered rate billing calculations, and dairy analytics. | `React` `Express.js` `Firebase` `Dashboard` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
-| 05 | **CASAS Campus Navigator** | Interactive indoor and outdoor campus directory and navigational guide mapping academic facilities and points of interest. | `Kotlin` `Android SDK` `React` `Firebase` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
-| 06 | **Shivrakshak Career Academy** | Official educational institution web portal delivering career coaching curriculums, defense entrance exam modules, and student registrations. | `Next.js` `React` `Tailwind CSS` `Web Platform` | [🔗 Live Demo](https://shivrakshakacademy.in/) |
-| 07 | **Kailas Udupi Restaurant** | Commercial food and culinary platform showcasing restaurant services, interactive menus, customer feedback, and branding. | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://kailas-udupi.vercel.app/) |
+| 02 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
+| 03 | **Shivneri Dairy Management** | Enterprise milk collection and dairy SaaS dashboard handling milk quality tracking, tiered rate billing calculations, and dairy analytics. | `React` `Express.js` `Firebase` `Dashboard` | [🔗 Live Demo](https://dairy-app-sepia.vercel.app/dashboard) |
+| 04 | **CASAS Campus Navigator** | Interactive indoor and outdoor campus directory and navigational guide mapping academic facilities and points of interest. | `Kotlin` `Android SDK` `React` `Firebase` | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
+| 05 | **Shivrakshak Career Academy** | Official educational institution web portal delivering career coaching curriculums, defense entrance exam modules, and student registrations. | `Next.js` `React` `Tailwind CSS` `Web Platform` | [🔗 Live Demo](https://shivrakshakacademy.in/) |
+| 06 | **Kailas Udupi Restaurant** | Commercial food and culinary platform showcasing restaurant services, interactive menus, customer feedback, and branding. | `React` `Vite` `Tailwind CSS` | [🔗 Live Demo](https://kailas-udupi.vercel.app/) |
 
 ---
 
