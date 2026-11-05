@@ -1,14 +1,12 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/light.svg">
-    <img alt="Saurabh Bhandari - Java Full Stack Developer" src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Java Full Stack Developer" width="100%">
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C77B9B&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Engineering+Scalable+Web+%26+Cloud+Apps" alt="Typing SVG" />
-</h1>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E5B5C7&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%9A%A1+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%9A%80+Building+Scalable+Cloud+%26+Web+Applications" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <b>📍 Ahilyanagar, Maharashtra, India</b> &nbsp;•&nbsp; 
@@ -31,12 +29,7 @@
 ## 📈 24/7 Live Contribution Activity (Snake Animation)
 
 <div align="center">
-  <!-- Live Auto-Updating Contribution Graph Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/output/github-contribution-grid-snake.svg">
-    <img alt="Saurabh's Contribution Grid Snake" src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img alt="Saurabh's Contribution Grid Snake" src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
