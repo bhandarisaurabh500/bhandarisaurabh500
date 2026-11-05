@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
 </div>
 
 <br/>
@@ -103,5 +103,5 @@
 
 <!-- Minimal Impeccable Footer -->
 <div align="center">
-  <img src="footer.svg" alt="Saurabh Bhandari Signature" width="100%">
+  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/footer.svg" alt="Saurabh Bhandari Signature" width="100%">
 </div>

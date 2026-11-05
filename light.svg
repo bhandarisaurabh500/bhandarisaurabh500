@@ -13,29 +13,29 @@
       .anim-float { animation: floatOrbs 7s ease-in-out infinite; }
     </style>
 
-    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="brandGrad-light" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#701A3D"/>
       <stop offset="50%" stop-color="#E5B5C7"/>
       <stop offset="100%" stop-color="#451126"/>
     </linearGradient>
 
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad-light" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FDF9FA"/>
       <stop offset="100%" stop-color="#F7EDF1"/>
     </linearGradient>
 
-    <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="softBlur-light" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="30"/>
     </filter>
   </defs>
 
   <!-- Background Layer -->
-  <rect width="1180" height="360" rx="18" fill="url(#bgGrad)"/>
+  <rect width="1180" height="360" rx="18" fill="url(#bgGrad-light)"/>
   <rect width="1180" height="360" rx="18" fill="none" stroke="#ECCED9" stroke-width="1.2"/>
 
   <!-- Ambient Cinematic Glows -->
-  <circle cx="1020" cy="120" r="140" fill="#E5B5C7" opacity="0.25" filter="url(#softBlur)" class="anim-glow"/>
-  <circle cx="120" cy="300" r="130" fill="#451126" opacity="0.20" filter="url(#softBlur)" class="anim-glow"/>
+  <circle cx="1020" cy="120" r="140" fill="#E5B5C7" opacity="0.25" filter="url(#softBlur-light)" class="anim-glow"/>
+  <circle cx="120" cy="300" r="130" fill="#451126" opacity="0.20" filter="url(#softBlur-light)" class="anim-glow"/>
 
   <!-- Top Technical Chrome Bar -->
   <rect x="50" y="36" width="1080" height="36" rx="8" fill="#F7EDF1" stroke="#F2DFE6" stroke-width="1"/>
@@ -74,22 +74,22 @@
     <!-- Pillar 1: Web Applications -->
     <rect x="0" y="0" width="390" height="96" rx="12" fill="#F7EDF1" stroke="#F2DFE6" stroke-width="1.2"/>
     <rect x="0" y="0" width="4" height="96" rx="2" fill="#701A3D"/>
-    <text x="20" y="28" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#701A3D">🌐 WEB ENGINEERING &amp; APIS</text>
+    <text x="20" y="28" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#701A3D">WEB ENGINEERING &amp; APIS</text>
     <text x="20" y="50" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1A0811">Java • Spring Boot • React.js • Node.js</text>
     <text x="20" y="74" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#7A324E">Enterprise REST APIs, MySQL, PostgreSQL, Supabase</text>
 
     <!-- Pillar 2: Mobile Applications -->
     <rect x="0" y="112" width="390" height="96" rx="12" fill="#F7EDF1" stroke="#F2DFE6" stroke-width="1.2"/>
     <rect x="0" y="112" width="4" height="96" rx="2" fill="#451126"/>
-    <text x="20" y="140" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#701A3D">📱 MOBILE APP DEVELOPMENT</text>
+    <text x="20" y="140" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="700" fill="#701A3D">MOBILE APP DEVELOPMENT</text>
     <text x="20" y="162" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#1A0811">Kotlin • Android SDK • React Native</text>
     <text x="20" y="186" font-family="'Inter', -apple-system, sans-serif" font-size="12" fill="#7A324E">Cross-platform architectures &amp; native performance</text>
   </g>
 
-  <!-- Bottom Location & Education Strip -->
+  <!-- Bottom Location & Education Strip (Valid XML: No &nbsp;) -->
   <g transform="translate(60, 310)">
     <text x="0" y="0" font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="500" fill="#7A324E">
-      🎓 M.Sc Computer Science &nbsp;•&nbsp; 📍 Ahilyanagar, Maharashtra, India &nbsp;•&nbsp; ⚡ Building • Learning • Shipping
+      M.Sc Computer Science  •  Ahilyanagar, Maharashtra, India  •  Building • Learning • Shipping
     </text>
   </g>
 </svg>
