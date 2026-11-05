@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
+  <img src="dark.svg" alt="Saurabh Bhandari - Full Stack Software Engineer" width="100%">
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  Full Stack Software Engineer with foundational expertise in architecting resilient backend services using <b>Java & Spring Boot</b>, designing decoupled RESTful APIs, and crafting fluid user interfaces with <b>React & TypeScript</b>. Experienced in taking real-world systems from concept to production across healthcare, hospitality, dairy management, and education.
+  Full Stack Software Engineer specialized in architecting and shipping commercial <b>Web Platforms</b> (Java, Spring Boot, React) and <b>Native Mobile Applications</b> (Android SDK, Kotlin). Proven track record of delivering end-to-end production systems across healthcare, hospitality, dairy enterprise, and education.
 </p>
 
 ---
@@ -37,9 +37,9 @@
 
 ### 💻 Production & Live Implemented Projects
 
-<p>Selected commercial and client applications shipped with end-to-end architecture, responsive design, and production deployments:</p>
+<p>Commercial web portals and mobile software engineered with scalable architecture, responsive UI, and verified cloud deployments:</p>
 
-| # | Client / Platform | Architectural Scope & Implementation | Verified Stack | Deployment |
+| # | Client / Platform | Core Engineering Scope | Technology Stack | Deployment |
 | :-: | :--- | :--- | :--- | :---: |
 | 01 | **Hotel Namrata** | Commercial hospitality portal offering responsive digital menus, dining reservation workflows, and banquet management. | `React` `Tailwind CSS` `Vercel` | [🔗 Live Demo](https://hotel-namrata1.vercel.app/) |
 | 02 | **Dr. Borude Healthcare** | Clinical web portal facilitating patient appointments, treatment advisories, OPD schedule displays, and doctor profile management. | `React` `Tailwind CSS` `Production UI` | [🔗 Live Demo](https://dr-borude-website.vercel.app/) |
@@ -50,34 +50,31 @@
 
 ---
 
-### 🏛️ Technical Competencies & Architecture
+### 🏛️ Engineering Stack & Capabilities
 
 <div align="center">
 
-#### Backend & Data Architecture
+#### Web Engineering & Backend APIs
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-451126?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-#### Frontend & Mobile Engineering
+#### Mobile Application Development
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
+  <img src="https://img.shields.io/badge/Firebase_Mobile-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### DevOps & Production Tooling
+#### DevOps & Cloud Delivery
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -91,26 +88,12 @@
 
 ---
 
-### 📊 Performance & Activity Analytics
+### 📊 Codebase Distribution
 
 <div align="center">
-  <!-- GitHub Readme Streak (Radical / Burgundy Palette) -->
+  <!-- Top Languages Card (Centered & Elegant) -->
   <a href="https://github.com/bhandarisaurabh500">
-    <img src="https://streak-stats.demolab.com/?user=bhandarisaurabh500&theme=radical&background=0D070B&border=3D1222&stroke=C77B9B&ring=701A3D&fire=E8B9CB&currStreakNum=FBF5F7&sideNums=E8B9CB&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=E8B9CB&hide_border=false" alt="Saurabh's GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Stats (Fast Reliable Mirror) -->
-  <a href="https://github.com/bhandarisaurabh500">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=bhandarisaurabh500&show_icons=true&title_color=E8B9CB&icon_color=C77B9B&text_color=FBF5F7&bg_color=0D070B&border_color=3D1222&hide_border=false" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <a href="https://github.com/bhandarisaurabh500">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&title_color=E8B9CB&text_color=FBF5F7&bg_color=0D070B&border_color=3D1222&hide_border=false" alt="Top Languages" />
+    <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&title_color=E8B9CB&text_color=FBF5F7&bg_color=0D070B&border_color=3D1222&hide_border=false" alt="Top Languages" />
   </a>
 </div>
 
@@ -120,5 +103,5 @@
 
 <!-- Minimal Impeccable Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhandarisaurabh500/bhandarisaurabh500/main/footer.svg" alt="Saurabh Bhandari Signature" width="100%">
+  <img src="footer.svg" alt="Saurabh Bhandari Signature" width="100%">
 </div>
